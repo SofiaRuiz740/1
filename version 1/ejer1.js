@@ -1,4 +1,4 @@
-//EJERCICIOS LECCION 4 ESTRUCTURAS DE CONTROL
+//EJERCICIOS LECCION 4 ESTRUCTURAS DE CONTROL IF,ELSE IF,ELSE Y TERNARIO ? :
 console.log("♡".repeat(20) + " EJERCICIO 1" + "♡".repeat(20));
 let puntaje= 4.5;
  puntaje >= 3 
@@ -38,8 +38,8 @@ let puntaje= 4.5;
 
  console.log("♡".repeat(20) + " EJERCICIO 6" + "♡".repeat(20));
  let velocidad=120;
- if(velocidad>=100);
-    {console.log(`¡Vas muy rapido! Tu velocidad es de ${velocidad}.`)};
+ if(velocidad>=100){
+   console.log(`¡Vas muy rapido! Tu velocidad es de ${velocidad}.`)};
 
  console.log("♡".repeat(20) + " EJERCICIO 7" + "♡".repeat(20));
  let nivelDeHidratacion = 2;
